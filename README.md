@@ -10,3 +10,6 @@ Slides here: https://docs.google.com/presentation/d/1pFW0XRTgbGGOO2WxWkOIngOV-4s
 
 ![image](https://github.com/user-attachments/assets/bc576c6d-bc35-4acd-9461-a7df3c0cc96f)
 
+Example of a template:
+https://github.com/nmfs-opensci/NOAA-quarto-simple
+
