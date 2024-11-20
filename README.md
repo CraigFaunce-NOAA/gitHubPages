@@ -5,6 +5,8 @@ From https://docs.google.com/document/d/1XoOg_qNxZwTjnff7sBDcGrgFerBRa0aV2P5ulYo
 
 Slides here: https://docs.google.com/presentation/d/1pFW0XRTgbGGOO2WxWkOIngOV-4sztgXVRriaXdIPiwc/edit?usp=sharing
 
+Rpackage template: https://github.com/nmfs-opensci/pkgdownTemplate
+
 
 #Adding a picture:
 
