@@ -5,6 +5,5 @@ From https://docs.google.com/document/d/1XoOg_qNxZwTjnff7sBDcGrgFerBRa0aV2P5ulYo
 
 #Adding a picture:
 
-![image](https://github.com/user-attachments/assets/f38ae166-7aca-4e97-9261-daf963e0a61a)
-
+![image](https://github.com/user-attachments/assets/bc576c6d-bc35-4acd-9461-a7df3c0cc96f)
 
